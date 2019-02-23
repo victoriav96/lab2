@@ -1,0 +1,24 @@
+c:\users\victo\source\repos\VictoriaV_Lab2_Average\VictoriaV_Lab2_Average\bin\Debug\VictoriaV_Lab2_Average.exe.config
+c:\users\victo\source\repos\VictoriaV_Lab2_Average\VictoriaV_Lab2_Average\bin\Debug\VictoriaV_Lab2_Average.exe
+c:\users\victo\source\repos\VictoriaV_Lab2_Average\VictoriaV_Lab2_Average\bin\Debug\VictoriaV_Lab2_Average.pdb
+c:\users\victo\source\repos\VictoriaV_Lab2_Average\VictoriaV_Lab2_Average\bin\Debug\VictoriaV_Lab2_Average.xml
+c:\users\victo\source\repos\VictoriaV_Lab2_Average\VictoriaV_Lab2_Average\obj\Debug\VictoriaV_Lab2_Average.vbprojAssemblyReference.cache
+c:\users\victo\source\repos\VictoriaV_Lab2_Average\VictoriaV_Lab2_Average\obj\Debug\VictoriaV_Lab2_Average.frmMain.resources
+c:\users\victo\source\repos\VictoriaV_Lab2_Average\VictoriaV_Lab2_Average\obj\Debug\VictoriaV_Lab2_Average.Resources.resources
+c:\users\victo\source\repos\VictoriaV_Lab2_Average\VictoriaV_Lab2_Average\obj\Debug\VictoriaV_Lab2_Average.vbproj.GenerateResource.cache
+c:\users\victo\source\repos\VictoriaV_Lab2_Average\VictoriaV_Lab2_Average\obj\Debug\VictoriaV_Lab2_Average.vbproj.CoreCompileInputs.cache
+c:\users\victo\source\repos\VictoriaV_Lab2_Average\VictoriaV_Lab2_Average\obj\Debug\VictoriaV_Lab2_Average.exe
+c:\users\victo\source\repos\VictoriaV_Lab2_Average\VictoriaV_Lab2_Average\obj\Debug\VictoriaV_Lab2_Average.xml
+c:\users\victo\source\repos\VictoriaV_Lab2_Average\VictoriaV_Lab2_Average\obj\Debug\VictoriaV_Lab2_Average.pdb
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\VictoriaV_Lab2_Average\bin\Debug\VictoriaV_Lab2_Average.exe.config
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\VictoriaV_Lab2_Average\bin\Debug\VictoriaV_Lab2_Average.exe
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\VictoriaV_Lab2_Average\bin\Debug\VictoriaV_Lab2_Average.pdb
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\VictoriaV_Lab2_Average\bin\Debug\VictoriaV_Lab2_Average.xml
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\VictoriaV_Lab2_Average\obj\Debug\VictoriaV_Lab2_Average.vbprojAssemblyReference.cache
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\VictoriaV_Lab2_Average\obj\Debug\VictoriaV_Lab2_Average.frmMain.resources
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\VictoriaV_Lab2_Average\obj\Debug\VictoriaV_Lab2_Average.Resources.resources
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\VictoriaV_Lab2_Average\obj\Debug\VictoriaV_Lab2_Average.vbproj.GenerateResource.cache
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\VictoriaV_Lab2_Average\obj\Debug\VictoriaV_Lab2_Average.vbproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\VictoriaV_Lab2_Average\obj\Debug\VictoriaV_Lab2_Average.exe
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\VictoriaV_Lab2_Average\obj\Debug\VictoriaV_Lab2_Average.xml
+C:\Users\victo\Desktop\CPRGM\Semester 2\NETD\VictoriaV_Lab2_Average\obj\Debug\VictoriaV_Lab2_Average.pdb
